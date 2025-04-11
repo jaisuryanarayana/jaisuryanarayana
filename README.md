@@ -1,4 +1,4 @@
-# 👋 Hello, I'm K Jai Surya Narayana
+# 👋 Hello, I'm Konderu Jai Surya Narayana
 
 🎓 A passionate B.Tech graduate from Avanthi Institute of Technology (JNTU-H) based in Hyderabad, India. I’m eager to apply my knowledge in real-world software development and always open to learning new technologies.
 
